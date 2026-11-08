@@ -70,3 +70,7 @@ helm install compass oci://ghcr.io/adinhodovic/charts/compass -n compass --creat
 ```
 
 See [Getting started](https://adinhodovic.github.io/compass/getting-started/) for a minimal config and source examples.
+
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Compass/)
